@@ -1,2 +1,2 @@
-# omnistack8
+# Omnistack8
 Semana OmniStack 8
