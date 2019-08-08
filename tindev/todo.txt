@@ -1,0 +1,4 @@
+npm install -D path
+
+//localstorage
+yarn add @react-native-community/async-storage
